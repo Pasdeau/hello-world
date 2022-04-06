@@ -4,9 +4,9 @@ address of prof
 
 # # faly.ratsimandresy@em-strasbourg.eu # #
 
-# ----------# 今天计划 #----------- #
+# ----------# 4.7 计划 #----------- #
 
-Matlab 画图初步05 完成
+Matlab kuo 完成
 
 信号与系统 继续一课
 
