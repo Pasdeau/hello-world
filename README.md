@@ -1,14 +1,15 @@
-# hello-world
-This is a test.
+check the e-mail of jiuning
 
+address of prof 
 
-# ------------------------------- #
-# 今天计划 #
+# # faly.ratsimandresy@em-strasbourg.eu # #
 
-Matlab
+# ----------# 今天计划 #----------- #
 
-信号与系统
+Matlab 画图初步05 完成
 
-python
+信号与系统 继续一课
 
-FPGA
+python 第一天
+
+FPGA 程序
